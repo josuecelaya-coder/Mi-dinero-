@@ -1,0 +1,26 @@
+{
+  "name": "Mi dinero",
+  "short_name": "Mi dinero",
+  "description": "Control quincenal de finanzas personales",
+  "start_url": "./mi-dinero.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EBF0ED",
+  "theme_color": "#0E6B60",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
